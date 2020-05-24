@@ -14,7 +14,7 @@ you'll be creating yourself during the tutorial and the `scripts` subdirectory
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipsdfgdsfgdfsgeline.
 dsfgdsfgdfgsdfg dfgdfsg sdfgd压下fgdfgasdfsdfsdf
-asdfsadfsdfasdfsdfdssadf
+asdfsadfsdfasdfsdfdssadfasdfdsfsdf
 asdfsadf克林霉素压下顶替顶替sdfasfgdsfgdgadfsdf
 safasd sadfsdfasdf
 dsfasdfsadf烛  上加sadfsdfsdf战时
