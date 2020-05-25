@@ -15,7 +15,7 @@ contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipsdfgdsfgdfsgeline.
 dsfgdsfgdfgsdfg dfgdfsg sdfgd压下fsdfsdfsdfgdfgasdfsdfsdf
 asdfsadfsdfasdfsdfdssadfasdfFDGdsfsdf
-asdfsadf克林霉素压下顶替顶替sdfasfgdsfgdgadfsdf
+asdfsadf克林霉素压下顶替顶替sdfasfgdsfgdgadfsdfasdsdf
 safasd sadfsdfasdf
 dsfasdfsadf烛  上加sadfsdfsdf战时
 sdfsadfsdfdsfafsdafsadfsadfdsf
