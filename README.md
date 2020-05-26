@@ -10,7 +10,7 @@ main application works as expected.asdf The results of these tests are saved to 
 JUnit XML report.
 asdfsadfsdf
 The `jenkins` directory contains an example of the `Jenkinsfile` (i.e. Pipeline)
-you'll be creating yourself during the tutorial and the `scripts` subdirectory
+you'll be creating yourself during tdfsdfhe tutorial and the `scripts` subdirectory
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipsdfgdsfgdfsgesadfsdfline.asdfsdf
 dsfgdsfgdfgsdfg dfgdfsg sdfgd压下fsdfsdfsdfgdfgasdfsdfsdf
