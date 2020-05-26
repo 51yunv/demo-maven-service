@@ -14,7 +14,7 @@ you'll be creating yourself during tdfsdfhe tutorial and the `scripts` subdirect
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipsdfgdsfgdfsgesadfsdfline.asdfsdf
 dsfgdsfgdfgsdfg dfgdfsg sdfgd压下fsdfsdfsdfgdfgasdfsdfsdf
-asdfsadfsdfasdfsdfdssadfasdfFDGdsfsdf
+asdfsadfsdfasdfsdfdssadfasdfFDGdsfsdfasdf
 asdfsadf克林霉素压下顶替顶替sdfasfgdsfgdgadfsdfasdsdf
 safasd sadfsdfasdf
 dsfasdfsadf烛  上加sadfsdfsdf战时
