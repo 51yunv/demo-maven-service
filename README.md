@@ -5,7 +5,7 @@ This repository is for the
 tutorial in the [Jenkins User Documentation](https://jenkins.io/doc/).
 
 The repository contains a simple Jasdfsdfava application which outputs the string
-"Hello world!" and is accompanied by sdfsdfa couple of unit tests to check that the
+"Hello world!" and is accompanied by sdfsdfa couple of unit tests to check that t阿斯蒂芬he
 main application works as expected.asdf The results of these tests are saved to a
 JUnit XML report.
 asdfsadfsdf
